@@ -1,3 +1,3 @@
-# LGBT Pride Flag ❤
+# LGBT Pride Flag
 
 ![](lgbt.jpg)
