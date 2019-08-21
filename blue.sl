@@ -4,4 +4,4 @@ default
     {
         llSay(0, "");
     }
-}
+ }
